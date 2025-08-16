@@ -1,3 +1,5 @@
+https://www.figma.com/design/tXbpcrjJERraZ3mmeMbsgc/Sin-t%C3%ADtulo?node-id=0-1&t=HH6BZWQr2MtjmXGJ-1
+
 Esta documentación se hace con el fin de contextualizar el trabajo (Aplicación de Sostenibilidad Personal), entender el por qué se hace cada detalle, y lo que hace nuestra maravillosa aplicación.
 
 ## FASE 1: ANÁLISIS Y TOMA DE REQUERIMIENTOS (60 minutos)
@@ -48,7 +50,7 @@ Entonces, el enfoque que le damos a nuestra app es dar metas claras al usuario d
 3. Aplica priorización MoSCoW a todos los requerimientos.
 
 
-|              FUNCIONAL                       |   NO FUNCIONAL
+|              FUNCIONAL                                                   |   NO FUNCIONAL
 | Recordatorio para informar al usuario su registro de huella de carbono   | Que el recordatorio se envíe en una fecha establecida                                      
 | diario.                                                                  |
 | Registrar huella de carbono de los usuarios dependiendo de sus           | Que la app guarde el registro de la huella de carbono y tenga un registro de días anteriores haciendo un conteo general.
