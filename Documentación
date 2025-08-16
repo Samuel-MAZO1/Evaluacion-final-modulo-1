@@ -1,0 +1,81 @@
+Esta documentación se hace con el fin de contextualizar el trabajo (Aplicación de Sostenibilidad Personal), entender el por qué se hace cada detalle, y lo que hace nuestra maravillosa aplicación.
+
+## FASE 1: ANÁLISIS Y TOMA DE REQUERIMIENTOS (60 minutos)
+
+### Tarea 1.1: Investigación de Usuario y Análisis Competitivo (25 minutos)
+
+**Instrucciones:**
+1. Realiza una investigación rápida en línea sobre tu dominio elegido.
+2. Identifica 3 aplicaciones/plataformas competidoras existentes.
+3. Documenta las principales necesidades y dolor points de los usuarios objetivo.
+
+
+  - Refresh Go Green – Consejos para una vida más verde
+    Esta aplicación busca ayudar a los usuarios a convertir su día a día en un itinerario más sostenible a través de pequeños y sencillos pasos.
+
+    Con 52 consejos, esta app da información útil para convertir tu hogar en un entorno más verde, así como indicaciones sobre la dieta, la salud o las costumbres diarias de cada persona.
+
+  - Oroeco - Calculadora de huella de carbono
+    Oroeco es una aplicación que te permite luchar contra el cambio climático calculando tu huella de carbono diaria en base a tu consumo eléctrico, medio de transporte, alimentación y actividades de ocio.
+
+    Además, ofrece pistas para reducir esta huella de una manera fácil y divertida con consejos personalizados según tu modo de vida.
+
+   - Objetivos de Desarrollo Sostenible – Los ODS siempre en tu móvil
+     Con esta app de Naciones Unidas tendrás siempre la información más actualizada sobre los Objetivos de Desarrollo Sostenible. Consulta los ODS siempre que quieras, descubre cómo puedes contribuir a su cumplimiento y diseña tus propias iniciativas de acción.
+
+     Podrás recibir también notificaciones personalizadas sobre los Objetivos de Desarrollo Sostenible que más te interesen.
+
+
+     Información extraida de: https://www.sostenibilidad.com/desarrollo-sostenible/top-10-apps-para-una-vida-sostenible/
+
+
+Necesidades del usuario:
+- Sentir que cumple una meta cada vez que usa la app.
+- Hcaer un recuento de sus compras (Haber si influye en su huella de carbono).
+- Hcaer un recuento de sus viajes y en qué vehículos se ha transportado.
+- Hacer un recuento de su mercado de mes y los alimentos que ha consumido, ya que algunos productos se fabrican y transportan mediante la emisión de gases invernadero.
+- Buscar una forma de ahorrar y cuidar e medio ambiente desde la misma app.
+
+Énfasis: De esta información, el análisis que se da es que estas apps llevan in listado de ls acciones de sus usuarios, dando objetivos diarios/mensuales para satisfacer esa ansia de cambiar al mundo de sus usuarios.
+Entonces, el enfoque que le damos a nuestra app es dar metas claras al usuario de manera diaria, incitando al cambio y dándole a entender al usuario que las metas no son mensuales, se cumplen cada día.
+
+
+### Tarea 1.2: Definición de Requerimientos Funcionales y No Funcionales (20 minutos)
+
+**Instrucciones:**
+1. Clasifica requerimientos en funcionales y no funcionales.
+2. Redacta 8-10 User Stories siguiendo el formato: "Como [tipo de usuario], quiero [acción], para que [beneficio]".
+3. Aplica priorización MoSCoW a todos los requerimientos.
+
+
+|              FUNCIONAL                       |   NO FUNCIONAL
+| Recordatorio para informar al usuario su registro de huella de carbono   | Que el recordatorio se envíe en una fecha establecida                                      
+| diario.                                                                  |
+| Registrar huella de carbono de los usuarios dependiendo de sus           | Que la app guarde el registro de la huella de carbono y tenga un registro de días anteriores haciendo un conteo general.
+| interacciones.                                                           |
+
+"Como usuario, quiero dejar de comer carne, para reducir la emisión de gases invernadero".
+"Como usuario, quiero no comprar ropa hecha de cuero, para reducir mi huella de carbono".
+"Como usuario, quiero no comprar tanta ropa de empresas, ya que utiliza mucha agua su creación".
+"Como usuario, quiero dejar de comprar tantos dispositivos electronicos, ya que utiliza mucha agua su creación".
+"Como usuario, quiero dejar de comprar juguetes para mis hijos, ya que la mayoría son de plástico no reutilizable".
+"Como usuario, quiero buscar una forma de reulitizar cada cosa, para reducir mi huella de carbono".
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
